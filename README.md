@@ -14,9 +14,9 @@ The following packages are already installed:
 4. Next-Auth `v4.24.7` (with Prisma Adapter)
 5. Bcrypt `v5.1.1`
 
-## Get Started
+## Getting Started
 
-1. Clone this repository
+1. Clone this repository or Click `Use this template` in Github
 2. Modify the metadata title and description in `/src/app/layout.tsx`
 3. Go to `.gitignore` and uncomment the lines that are marked with `UNCOMMENT THIS`
 4. Run `npm install` in your terminal
