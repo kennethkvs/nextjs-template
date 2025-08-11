@@ -8,11 +8,12 @@ This stack uses Next.js version 14 with PostgreSQL using Prisma and Next-Auth fo
 
 The following packages are already installed:
 
-1. Next.js `v14.2.5` (Typescript, App router & ESLint)
-2. Tailwind CSS `v3.4.1`
+1. Next.js `v15.4.6` (Typescript, App router & ESLint)
+2. Tailwind CSS `v4.1.11`
 3. Prettier w/ Tailwind Plugin
 4. Next-Auth `v4.24.7` (with Prisma Adapter)
-5. Bcrypt `v5.1.1`
+5. Bcrypt `v6.0.0`
+6. Shadcn/ui components in place
 
 ## Getting Started
 
