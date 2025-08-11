@@ -4,7 +4,7 @@ This is a starter template for Next.js projects. The purpose of this template is
 
 ## Template Stack Information
 
-This stack uses Next.js version 14 with PostgreSQL using Prisma and Next-Auth for User Authentication.
+This stack uses Next.js version 15 with PostgreSQL using Prisma and Next-Auth for User Authentication.
 
 The following packages are already installed:
 
