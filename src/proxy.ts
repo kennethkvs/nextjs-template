@@ -2,7 +2,7 @@ import { withAuth, NextRequestWithAuth } from "next-auth/middleware";
 import { NextResponse } from "next/server";
 
 export default withAuth(
-  function middleware(request: NextRequestWithAuth) {
+  function proxy(request: NextRequestWithAuth) {
     // Protect admin route
     if (
       request.nextUrl.pathname.startsWith("/admin") &&
