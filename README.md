@@ -19,8 +19,9 @@ The following packages are already installed:
 
 1. Clone this repository or Click `Use this template` in Github
 2. Modify the metadata title and description in `/src/app/layout.tsx`
-3. Go to `.gitignore` and uncomment the lines that are marked with `UNCOMMENT THIS`
-4. Run `npm install` in your terminal
-5. Start working on your Next.js Appliaction!
+3. Run `npm i` or `npm install` in your terminal
+4. Add your environment variables. A sample of the environment variables can be found under envlist
+5. Run `npm run dev` to run the development server
+6. Start working on your Next.js Appliaction!
 
 Happy Coding :D
